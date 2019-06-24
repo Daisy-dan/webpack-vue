@@ -1,0 +1,13 @@
+.idea
+dist
+node_modules
+jspm_packages
+npm-debug.*
+e2e/**/*.js.map
+*.js.map
+../.idea/
+./
+../.DS_Store
+../.idea/
+../npm-debug.log
+.idea/vcs.xml
